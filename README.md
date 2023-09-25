@@ -1,1 +1,2 @@
 # Snow-boarder
+# Sprite shapes
